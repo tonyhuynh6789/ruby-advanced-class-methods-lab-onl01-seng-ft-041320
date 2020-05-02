@@ -43,7 +43,7 @@ class Song
   
   def self.new_from_filename(filename)
     parts = filename.split("-")
-    part[0] = 
+    part[0] = artist_name
     binding.pry
     
   end 
