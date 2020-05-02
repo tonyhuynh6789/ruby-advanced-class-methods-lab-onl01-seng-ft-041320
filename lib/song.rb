@@ -22,9 +22,6 @@ class Song
     song
   end 
   
-  def self.new_from_filename(song_name, artist_name) 
-    song= Song.new 
-    
-  end 
+  
 
 end
