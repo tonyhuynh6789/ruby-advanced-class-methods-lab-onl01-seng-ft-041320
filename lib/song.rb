@@ -21,5 +21,8 @@ class Song
     song.name = song_name
     song
   end 
+  
+  def self.new_from_filename 
+  end 
 
 end
